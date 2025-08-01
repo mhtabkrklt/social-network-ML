@@ -13,7 +13,7 @@
 - Поиск возможных новых друзей по метрике Adamic/Adar.
 - Визуализация графа и топ-5 рекомендаций.
 ![Image alt](https://github.com/mhtabkrklt/social-network-ML/blob/main/images/Screenshot%202025-08-01%20at%2019.08.11.png)
-![Image alt](https://github.com/mhtabkrklt/social-network-ML/blob/main/images/Screenshot%202025-08-01%20at%2019.07.35.png)
+![Image alt](https://github.com/mhtabkrklt/social-network-ML/blob/main/images/Screenshot%202025-08-01%20at%2019.23.51.png)
 ![Image alt](https://github.com/mhtabkrklt/social-network-ML/blob/main/images/Screenshot%202025-08-01%20at%2019.05.46.png)
 ## Используемые библиотеки
 
